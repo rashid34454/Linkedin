@@ -1,0 +1,309 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.header{
+	height: 80px;
+	/*border: 2px solid black;*/
+	background-color: #000000;
+}
+.header img{
+	height: 75px;
+	margin-left: 160px;
+
+}
+form{
+	
+	float: right;
+	margin-right: 80px;
+	margin-top: 11px;
+}
+.username {
+	float: left;
+	width: 186px;
+	height: 23px;
+	/*border: 2px solid red;*/
+	color: white;
+	margin-top: 4px;
+
+}
+
+.em1{
+	width: 170px;
+	height: 20px;
+}
+.pa1{
+	width: 170px;
+	height: 20px;
+}
+
+.pass {
+float: left;
+	/*border: 2px solid red;*/
+	width: 200px;
+	margin-top: 4px;
+}
+
+.pass a{
+	text-decoration: none;
+	color:  white;
+	font-size: 12px;
+	font-family: arial;
+	margin-top: 3px;
+
+
+}
+.pass a:hover{
+	text-decoration: underline;
+	cursor: pointer;
+}
+.btn{
+	float: left;
+	margin-top: -2px;
+	margin-left: -10px;
+	margin-right: 112px;
+	
+}
+
+#btn{
+	height: 27px;
+	width:65px;
+	font-family: arial;
+	font-size: 13px;
+	background-color: #e8e8e8;
+	font-weight: bold;
+	padding: 2px;
+	margin-top: 6px;
+	opacity: 0.6;
+	border: none;
+}
+
+.slider{
+	background-image:url(linkedin-smartphone.jpg);
+	width: auto;
+	height: 649px;
+	/*border: 2px solid black;*/
+
+}
+.account{
+/*border: 2px solid red;*/
+display: inline-block;
+	margin:440px ;
+	height: 495px;
+	padding: 6px 29px 30px;
+	margin-top: 25px;
+	background-color: #eee;
+	
+
+}
+
+.account h2{
+	font-family: arial;
+	font-weight:lighter;
+	font-size: 22px;
+	text-align: center;
+	color: #333333;
+	margin-bottom: -13px;
+}
+	
+.account h4{
+	font-family: arial;
+	font-weight: lighter;
+	font-size: 19px;
+	color: #1D2129;
+	text-align: center;
+	
+}
+
+.fn{
+	width: 401px;
+	height: 25px;
+	border: 1px solid #bdc7d8;
+	font-size: large;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 10px;
+}
+.ls{
+	width: 401px;
+	height: 25px;
+	border: 1px solid #bdc7d8;
+	font-size: large;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 20px;
+
+}
+
+.em{
+	width: 401px;
+	height: 25px;
+	border: 1px solid #bdc7d8;
+	font-size: large;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 10px;
+}
+
+.ps{
+	width: 401px;
+	height: 25px;
+	border: 1px solid #bdc7d8;
+	font-size: large;
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 10px;
+}
+
+label{
+	
+	font-size: 12px;
+	font-family: arial ;
+	
+	}
+
+.lst{
+	font-family: Arial;
+	font-weight: lighter;
+	font-size: 13px;
+	color: black;
+	margin-top: 10px;
+	text-align: center;
+	/*border: 2px solid blue;*/
+}
+
+.jn{
+	height: 40px;
+	width: 401px;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 18px;
+	color: black;
+	background: #F1C317;
+	border-radius: 5px;
+	border: .5px solid #F1C317;
+	padding-bottom:  2px;
+	cursor: pointer;
+	border: .2 solid #e9ac1a;
+}
+.jn:hover{
+	background: #e9ac1a;
+}
+p a{
+	text-decoration: none;
+	color: black;
+}
+p a:hover{
+	color: #006fa6;
+}
+
+.src_area{
+	height: 300px;
+	/*border: 2px solid black;*/
+	background-color: #424040;
+}
+
+.footer{
+	height: 80px; 
+	/*border: 2px soild black;*/
+	background-color: #000000;
+	color: white;
+	display: inline-block;
+	width: 100%;
+	
+
+}
+ul{
+	float: right;
+	margin-right: 260px;
+	margin-top: 19px;
+	
+
+
+}
+.footer  li{
+	display: inline-block;
+	
+	list-style: none;
+	float: left;
+	padding: 13px;
+	/*margin-left: 50px;*/
+	font-family: arial;
+	font-size: 12px;
+
+	
+}
+
+.footer img{
+	margin-left: 97px;
+
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color:white;
+	text-decoration: underline;
+}
+
+.src_area label{
+	color: white;
+	font-family: arial;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.box{
+	margin-left: 350px;
+
+
+}
+.box input{
+	width: 186px;
+	height: 21px;
+	padding: 2px;
+	margin: 2px;
+	margin-top: 20px;
+}
+
+.alp{
+	color:white;
+	margin-left: 280px;
+}
+
+hr{
+	width: 70%;
+	border: none;
+    height: 1px;
+    background-color: #8c8a8a;
+}
+
+.r_box{
+	width: 400px;
+	height: 146px;
+	/*border: .2px solid  #8c8a8a;*/
+	margin-left: 140px;
+	margin-top: 15px;
+	color: #dad9d9;
+	float: left;
+}
+.r_box pre{
+	font-family: arial;
+	font-size: 13px;
+}
+
+.l_box{
+/*border: 2px solid red;*/
+width: 400px;
+height:146px;
+margin-left: 580px;
+margin-top: 26px;
+color: #dad9d9;
+}
+
+.l_box pre{
+	font-family: arial;
+	font-size: 13px;
+}
